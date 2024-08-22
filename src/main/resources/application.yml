@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    default:
+  application:
+    name : whatsapp-integration-service
+server:
+  port: 8080
+
